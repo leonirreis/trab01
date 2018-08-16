@@ -7,6 +7,7 @@ Trabalho desenvolvido durante a disciplina de BD1
 Integrantes do grupo<br>
 Brunna de Oliveira:
 Daniela Salomâo Santa Clara: danisantaclara@gmail.com
+
 Leonir dos Reis Alves: lreis.ti@gmail.com
 Mayannara Trindade Carvalho: mayannara@outlook.com
 
