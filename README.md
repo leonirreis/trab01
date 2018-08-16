@@ -5,7 +5,10 @@ Trabalho desenvolvido durante a disciplina de BD1
 
 ### 1. COMPONENTES<br>
 Integrantes do grupo<br>
+Brunna de Oliveira:
+Daniela Salomâo Santa Clara: danisantaclara@gmail.com
 Leonir dos Reis Alves: lreis.ti@gmail.com
+Mayannara Trindade Carvalho: mayannara@outlook.com
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
 Este documento contém a especificação do projeto do banco de dados <nome do projeto> 
