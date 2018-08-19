@@ -5,7 +5,7 @@ Trabalho desenvolvido durante a disciplina de BD1
 
 ### 1. COMPONENTES<br>
 Integrantes do grupo<br>
-Brunna de Oliveira:
+Brunna Dalzini de Oliveira: bdalzini@gmail.com
 
 Daniela Salomâo Santa Clara: danisantaclara@gmail.com
 
