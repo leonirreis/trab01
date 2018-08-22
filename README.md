@@ -1,4 +1,4 @@
-# TRABALHO 01:  Cidade Inteligente - CGV
+# Cidade Inteligente - CGV
 Trabalho desenvolvido durante a disciplina de BD1
 
 # Sumário
@@ -10,9 +10,12 @@ Daniela Salomâo Santa Clara: danisantaclara@gmail.com <br>
 Leonir dos Reis Alves: lreis.ti@gmail.com <br>
 Mayannara Trindade Carvalho: mayannara@outlook.com <br>
 
-### 2.INTRODUÇÃO E MOTIVAÇAO<br>
+### 2. INTRODUÇÃO E MOTIVAÇAO<br>
 Este documento contém a especificação do projeto do banco de dados <nome do projeto> 
 <br>e motivação da escolha realizada. <br>
+ 
+CIDADE INTELIGENTE – CHUVAS NA GRANDE VITÓRIA
+Sistema de monitoramento de nível de água na região da Grande Vitória em dias de chuva.
 
 A Região Metropolitana da Grande Vitória no Espírito Santo é formada por sete municípios: Cariacica,Fundão, Guarapari, Serra, Viana, Vila Velha e Vitória, que abrigam em torno de 48% da população do estado.
 Segundo os dados divulgados no site da Companhia Estadual de Transportes Coletivos de Passageiros do Estado do Espírito Santo (Ceturb ES) referentes à 2017, o sistema Transcol transporta o equivalente à 15.199.356 de pessoas ao mês na região da Grande Vitória.
