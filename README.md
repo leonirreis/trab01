@@ -17,6 +17,7 @@ Este documento contém a especificação do projeto do banco de dados <nome do p
 ### CIDADE INTELIGENTE – CHUVAS NA GRANDE VITÓRIA <br>
 Sistema de monitoramento de nível de água na região da Grande Vitória em dias de chuva.
 
+
 A Região Metropolitana da Grande Vitória no Espírito Santo é formada por sete municípios: Cariacica,Fundão, Guarapari, Serra, Viana, Vila Velha e Vitória, que abrigam em torno de 48% da população do estado.
 Segundo os dados divulgados no site da Companhia Estadual de Transportes Coletivos de Passageiros do Estado do Espírito Santo (Ceturb ES) referentes à 2017, o sistema Transcol transporta o equivalente à 15.199.356 de pessoas ao mês na região da Grande Vitória.
 Em épocas de chuva forte muitas ruas ficam alagadas e os carros e demais meios de transporte acabam impossibilitados de progredir para seu destino, em alguns casos não conseguem nem voltar por onde vieram e ficam presos no local.
