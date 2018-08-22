@@ -6,18 +6,27 @@ Trabalho desenvolvido durante a disciplina de BD1
 ### 1. COMPONENTES<br>
 Integrantes do grupo<br>
 Brunna Dalzini de Oliveira: bdalzini@gmail.com
-
 Daniela Salomâo Santa Clara: danisantaclara@gmail.com
-
 Leonir dos Reis Alves: lreis.ti@gmail.com
-
 Mayannara Trindade Carvalho: mayannara@outlook.com
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
 Este documento contém a especificação do projeto do banco de dados <nome do projeto> 
 <br>e motivação da escolha realizada. <br>
 
-> A empresa "Devcom Projetos" visa colaborar com desenvolvimento de projetos para uma sociedade melhor. Sabendo-se dos desafios para gerenciar projetos dentro de uma empresa e visando unir as informações relativas a funcionários, departamentos e projetos em um mesmo local, ficamos motivados com o desenvolvimento deste sistema. O Sistema "Devcom" tem como objetivo gerenciar todas as informações ao desenvolvimento das atividades de projetos em diversas localidades do país. Para realizar suas operações adequadamente e empresa necessita que sistema que armazene informações relativas aos Projetos, Departamentos e Empregados, além de também armazenar dados sobre  Dependentes e Históricos de Salário dos empregados. O sistema deverá gerar um conjunto de relatórios que por sua vez atenderá os anseios da empresa em questão.
+A Região Metropolitana da Grande Vitória no Espírito Santo é formada por sete municípios: Cariacica,Fundão, Guarapari, Serra, Viana, Vila Velha e Vitória, que abrigam em torno de 48% da população do estado.
+Segundo os dados divulgados no site da Companhia Estadual de Transportes Coletivos de Passageiros do Estado do Espírito Santo (Ceturb ES) referentes à 2017, o sistema Transcol transporta o equivalente à 15.199.356 de pessoas ao mês na região da Grande Vitória.
+Em épocas de chuva forte muitas ruas ficam alagadas e os carros e demais meios de transporte acabam impossibilitados de progredir para seu destino, em alguns casos não conseguem nem voltar por onde vieram e ficam presos no local.
+
+O objetivo do presente sistema é coletar os dados dos dias em que ocorrem as chuvas fortes e usá-los para alimentar um aplicativo que possibilite o redirecionamento de rotas do sistema de transporte público do estado assim como informe a condição das estradas à toda população, que atualmente só descobre se vai conseguir ou não sair de casa para trabalhar quando já se encontra à caminho. 
+Os sensores serão colocados nas ruas com maior fluxo de veículos e em algumas outras já conhecidas por alagarem. 
+Futuramente também será possível utilizar os dados coletados para pensar o replanejamento urbano dos pontos mais afetados.
+
+
+Sensores
+
+Condições ambientais: Chuva, pluviômetro
+
  
 
 ### 3.MINI-MUNDO Novo<br>
