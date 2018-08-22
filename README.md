@@ -14,7 +14,7 @@ Mayannara Trindade Carvalho: mayannara@outlook.com <br>
 Este documento contém a especificação do projeto do banco de dados <nome do projeto> 
 <br>e motivação da escolha realizada. <br>
  
-CIDADE INTELIGENTE – CHUVAS NA GRANDE VITÓRIA
+# CIDADE INTELIGENTE – CHUVAS NA GRANDE VITÓRIA <br>
 Sistema de monitoramento de nível de água na região da Grande Vitória em dias de chuva.
 
 A Região Metropolitana da Grande Vitória no Espírito Santo é formada por sete municípios: Cariacica,Fundão, Guarapari, Serra, Viana, Vila Velha e Vitória, que abrigam em torno de 48% da população do estado.
@@ -24,7 +24,6 @@ Em épocas de chuva forte muitas ruas ficam alagadas e os carros e demais meios 
 O objetivo do presente sistema é coletar os dados dos dias em que ocorrem as chuvas fortes e usá-los para alimentar um aplicativo que possibilite o redirecionamento de rotas do sistema de transporte público do estado assim como informe a condição das estradas à toda população, que atualmente só descobre se vai conseguir ou não sair de casa para trabalhar quando já se encontra à caminho. 
 Os sensores serão colocados nas ruas com maior fluxo de veículos e em algumas outras já conhecidas por alagarem. 
 Futuramente também será possível utilizar os dados coletados para pensar o replanejamento urbano dos pontos mais afetados.
-
 
 Sensores
 Condições ambientais: Chuva, pluviômetro
